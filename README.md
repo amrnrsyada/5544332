@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amrnrsyada Nice to know you :)
+- 👋 Hi
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning React to start my own project
 - 💞️ I’m looking to collaborate that related to web design
